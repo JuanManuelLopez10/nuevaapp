@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
-
+header{
+  background-color: rgb(0, 0, 77);
+}
+.opcionclase{
+  text-decoration: none;
+  color: white;
+}
+.bi{
+  font-size: 2rem;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
